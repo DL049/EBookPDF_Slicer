@@ -5,15 +5,15 @@ PDF Slicer for reducing Computer/Server memories and loading time
 To view e-book PDFs instantly and quickly on a cloud drive or local device, PDF Slicer is a Python script that divides large PDFs into smaller PDFs by sections and chapters.
 
 Command below need to be run in right path.
-##Installation
+## Installation
 After getting the master file, use pip to install requirements.
 
 ```
 pip install -r requirements.txt
 ```
 
-##Usage
-run main script with Streamlit module.
+## Usage
+Run main script with Streamlit module.
 ```
 streamlit run main.py
 ```
