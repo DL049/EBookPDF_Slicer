@@ -2,4 +2,4 @@
 PDF Slicer for reducing Computer/Server memories and loading time
 
 
-In term to view e-book pdfs instantly and fast in cloud drive or local device, PDF Slicer is a python script to divide large PDF into small PDFs by sections and chapters.
+To view e-book PDFs instantly and quickly on a cloud drive or local device, PDF Slicer is a Python script that divides large PDFs into smaller PDFs by sections and chapters.
